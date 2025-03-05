@@ -1,0 +1,23 @@
+MySQL workbench is a UI for MySQL
+
+MySQL Contains database 
+   |--->    in database it contains tables 
+        |--->                    in tables it contains rows
+             |--->   	                            in rows it contains columns 
+
+copy the path of bin from program file then we can access to the work bench from the cmd 
+-u root -p command to launch user id pw section in cmd
+enter pw 
+after that show databases; this command will show the databases. 
+create database <name>; this will create the db and 
+after creating the db again enter show db it will show the updated list of db.
+use <db name> it will make the use of the db.
+
+CREATE TABLE EMPLOYEE( shift+enter
+       --> <colname> datatype, shift enter
+       );
+this will create the table 
+DESC <table name>  will show the table DESC=describe.
+
+
+
